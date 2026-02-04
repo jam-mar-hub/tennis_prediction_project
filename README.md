@@ -2,7 +2,7 @@
 
 Ce projet vise à prédire l'issue des matchs de tennis du circuit ATP en utilisant des techniques de Machine Learning. Il a été conçu pour démontrer une méthodologie complète de Data Science, du nettoyage des données à l'évaluation d'un modèle prédictif.
 
-## 🚀 Structure du Projet
+## Structure du Projet
 
 Le projet est divisé en trois notebooks principaux :
 
@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ## 📈 Résultats
 
-Le modèle actuel (Random Forest) atteint une précision d'environ **70%** en utilisant uniquement des données disponibles avant le début du match (classement et caractéristiques physiques).
+Le modèle actuel (XGBoost) atteint une précision de **66%** en utilisant uniquement des données disponibles avant le début du match (classement et caractéristiques physiques).
 
----
-*Projet réalisé dans le cadre d'un portfolio pour un premier stage en Data Science / Ingénierie.*
+
